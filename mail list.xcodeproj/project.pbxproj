@@ -21,6 +21,7 @@
 		5456EB971D2F3C8C00FB3509 /* show.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5456EB961D2F3C8C00FB3509 /* show.swift */; };
 		5456EB9B1D2F3FCF00FB3509 /* data.db in Resources */ = {isa = PBXBuildFile; fileRef = 5456EB9A1D2F3FCF00FB3509 /* data.db */; };
 		5456EB9D1D2F444C00FB3509 /* delete.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5456EB9C1D2F444C00FB3509 /* delete.swift */; };
+		54949FDD1D322CCB00B16C64 /* Findwhatit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54949FDC1D322CCB00B16C64 /* Findwhatit.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,6 +63,7 @@
 		5456EB961D2F3C8C00FB3509 /* show.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = show.swift; sourceTree = "<group>"; };
 		5456EB9A1D2F3FCF00FB3509 /* data.db */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = data.db; sourceTree = "<group>"; };
 		5456EB9C1D2F444C00FB3509 /* delete.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = delete.swift; sourceTree = "<group>"; };
+		54949FDC1D322CCB00B16C64 /* Findwhatit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Findwhatit.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +123,7 @@
 				5456EB571D2F364300FB3509 /* Main.storyboard */,
 				5456EB5A1D2F364300FB3509 /* Assets.xcassets */,
 				5456EB5C1D2F364300FB3509 /* LaunchScreen.storyboard */,
+				54949FDC1D322CCB00B16C64 /* Findwhatit.swift */,
 				5456EB5F1D2F364300FB3509 /* Info.plist */,
 				5456EB8C1D2F369300FB3509 /* Header.h */,
 				5456EB961D2F3C8C00FB3509 /* show.swift */,
@@ -294,6 +297,7 @@
 				5456EB951D2F3C1A00FB3509 /* String-Extras.swift in Sources */,
 				5456EB931D2F3C1A00FB3509 /* SQLiteDB.swift in Sources */,
 				5456EB941D2F3C1A00FB3509 /* SQLTable.swift in Sources */,
+				54949FDD1D322CCB00B16C64 /* Findwhatit.swift in Sources */,
 				5456EB561D2F364300FB3509 /* ViewController.swift in Sources */,
 				5456EB541D2F364300FB3509 /* AppDelegate.swift in Sources */,
 			);
